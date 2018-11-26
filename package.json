@@ -1,0 +1,18 @@
+{
+  "name": "use-local-storage",
+  "version": "1.0.2",
+  "description": "a small package for srr usage of local storage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "localstorage"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matanbe20/"
+  },
+  "author": "Matan Ben Moshe",
+  "license": "MIT"
+}
